@@ -34,7 +34,6 @@ void printKeypad(int num, string out)
 	if (num == 0 || num == 1)
 	{
 		cout << out << endl;
-		// cout << 4 << endl;
 		return;
 	}
 
