@@ -5,9 +5,9 @@ All the codes are in C++.  ;)
 [Binary Search](https://github.com/VatsalNilay/Basic-DSA-CPP/blob/main/binary%20search/bSearch.cpp)
 
 | EASY | 0/27 |
-| ---- |---- |
+| ---- |---- |  
 | MEDIUM | 3/17 |
-| ---- |---- |
+| ---- |---- |  
 | HARD | 0/1 |
 | ---- |---- |
 ## EASY
