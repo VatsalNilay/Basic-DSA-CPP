@@ -10,7 +10,7 @@ All the codes are in C++.  ;)
 | MEDIUM | 3/17 |
 | ---- |---- |  
 
-| HARD | 0/1 |
+| HARD | 0/8 |
 | ---- |---- |  
 
 ## EASY
@@ -41,3 +41,11 @@ All the codes are in C++.  ;)
 ## HARD
 | QUESTION | CODE | 
 | :--- | ---: |
+| [Medians of 2 sorted arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) | Pending |
+| [Min in rotated array 2](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/) | Pending |
+| [Aggressive Cows](https://www.spoj.com/problems/AGGRCOW/) | Pending |
+| [Book Allocation](https://www.geeksforgeeks.org/allocate-minimum-number-pages/) | Pending |
+| [Split array largest sum](https://leetcode.com/problems/split-array-largest-sum/) | Pending |
+| [Find in mountain array](https://leetcode.com/problems/find-in-mountain-array/) | Pending |
+| [Count smaller number after self](https://leetcode.com/problems/count-of-smaller-numbers-after-self/) | Pending |
+| [Divide Chocolate Problem](https://curiouschild.github.io/leetcode/2019/06/21/divide-chocolate.html) | Pending |
