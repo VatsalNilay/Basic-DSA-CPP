@@ -2,7 +2,10 @@ Shoutout to Kunal Kushwaha for this amazing initiative and nearly all the questi
 amazing Channel on [youtube](https://www.youtube.com/c/KunalKushwaha/featured).
 All the codes are in C++.  ;)
 
-[Binary Search](https://github.com/VatsalNilay/Basic-DSA-CPP/blob/main/binary%20search/bSearch.cpp)
+[Bubble Sort](https://github.com/VatsalNilay/Basic-DSA-CPP/blob/main/Sorting/bubbleSort.cpp)
+[Insertion Sort](https://github.com/VatsalNilay/Basic-DSA-CPP/blob/main/Sorting/insertionSort.cpp)
+[Selection Sort](https://github.com/VatsalNilay/Basic-DSA-CPP/blob/main/Sorting/selectionSort.cpp)
+Cycle Sort(pending)
 
 ## EASY
 
