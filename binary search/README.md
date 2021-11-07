@@ -13,6 +13,10 @@ All the codes are in C++.  ;)
 | HARD | 0/8 |
 | ---- |---- |  
 
+
+| Total | 4/41 |
+| ---- |---- |  
+
 ## EASY
 
 | QUESTION | CODE |
