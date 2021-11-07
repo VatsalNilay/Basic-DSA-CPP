@@ -6,10 +6,13 @@ All the codes are in C++.  ;)
 
 | EASY | 0/27 |
 | ---- |---- |  
+
 | MEDIUM | 3/17 |
 | ---- |---- |  
+
 | HARD | 0/1 |
-| ---- |---- |
+| ---- |---- |  
+
 ## EASY
 
 | QUESTION | CODE |
