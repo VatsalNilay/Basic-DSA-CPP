@@ -4,7 +4,7 @@ All the codes are in C++.  ;)
 
 [Binary Search](https://github.com/VatsalNilay/Basic-DSA-CPP/blob/main/binary%20search/bSearch.cpp)
 
-| EASY | 0/27 |
+| EASY | 1/16 |
 | ---- |---- |  
 
 | MEDIUM | 3/17 |
@@ -22,8 +22,17 @@ All the codes are in C++.  ;)
 | [First Bad Number](https://leetcode.com/problems/first-bad-version/) | Pending |
 | [Two sum 2](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | Pending |
 | [Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/) | Pending |
-| [Arranging Coins(https://leetcode.com/problems/arranging-coins/) | Pending |
-| [Find smallest letter greater](https://leetcode.com/problems/find-smallest-letter-greater-than-target/) | Pending |
+| [Arranging Coins](https://leetcode.com/problems/arranging-coins/) | Pending |
+| [Find smallest letter greater](https://leetcode.com/problems/find-smallest-letter-greater-than-target/) | [Solution](https://github.com/VatsalNilay/Basic-DSA-CPP/blob/main/binary%20search/findSmallestLetterGreaterThanTarget.cpp) |
+| [Kth missing positive num](https://leetcode.com/problems/kth-missing-positive-number/) | Pending |
+| [Search Insert Position](https://leetcode.com/problems/search-insert-position/) | Pending |
+| [Count -ve num in sorted matrix](https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/) | Pending |
+| [Intersection of 2 arrays](https://leetcode.com/problems/intersection-of-two-arrays/) | Pending |
+| [Intersection of 2 arrays 20](https://leetcode.com/problems/intersection-of-two-arrays-ii/) | Pending |
+| [Fair Candy Swap](https://leetcode.com/problems/fair-candy-swap/) | Pending |
+| [Check N if its double exists](https://leetcode.com/problems/check-if-n-and-its-double-exist/) | Pending |
+| [Spcl array with  elements greater than or equal to x](https://leetcode.com/problems/special-array-with-x-elements-greater-than-or-equal-x/) | Pending |
+|
 ## MEDIUM
 | QUESTION | CODE |
 | :--- | ---: |
