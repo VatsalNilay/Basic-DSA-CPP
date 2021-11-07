@@ -16,6 +16,9 @@ Cycle Sort(pending)
 | HARD | 0/1 |
 | ---- |---- |  
 
+| Total | 0/39 |
+| ---- |---- |  
+
 ## EASY
 
 | QUESTION | CODE |
