@@ -17,7 +17,13 @@ All the codes are in C++.  ;)
 
 | QUESTION | CODE |
 | :------- | ----: |
-
+| [Square Root](https://leetcode.com/problems/sqrtx/) | Pending |
+| [Guess Num higher or lower](https://leetcode.com/problems/guess-number-higher-or-lower/) | Pending |
+| [First Bad Number](https://leetcode.com/problems/first-bad-version/) | Pending |
+| [Two sum 2](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | Pending |
+| [Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/) | Pending |
+| [Arranging Coins(https://leetcode.com/problems/arranging-coins/) | Pending |
+| [Find smallest letter greater](https://leetcode.com/problems/find-smallest-letter-greater-than-target/) | Pending |
 ## MEDIUM
 | QUESTION | CODE |
 | :--- | ---: |
