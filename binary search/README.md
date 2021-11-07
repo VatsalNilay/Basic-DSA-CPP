@@ -6,5 +6,5 @@ All the codes are in C++.  ;)
 ## EASY
 
 | QUESTION | CODE |
-| -------- | ---- |
+| :------- | ----: |
 | First | [Solution](https://www.google.com/)|
