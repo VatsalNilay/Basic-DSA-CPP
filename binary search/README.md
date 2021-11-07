@@ -23,7 +23,7 @@ All the codes are in C++.  ;)
 | [Two sum 2](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | Pending |
 | [Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/) | Pending |
 | [Arranging Coins](https://leetcode.com/problems/arranging-coins/) | Pending |
-| [Find smallest letter greater](https://leetcode.com/problems/find-smallest-letter-greater-than-target/) | [Solution](https://github.com/VatsalNilay/Basic-DSA-CPP/blob/main/binary%20search/findSmallestLetterGreaterThanTarget.cpp) |
+| [Find smallest letter greater than target](https://leetcode.com/problems/find-smallest-letter-greater-than-target/) | [Solution](https://github.com/VatsalNilay/Basic-DSA-CPP/blob/main/binary%20search/findSmallestLetterGreaterThanTarget.cpp) |
 | [Kth missing positive num](https://leetcode.com/problems/kth-missing-positive-number/) | Pending |
 | [Search Insert Position](https://leetcode.com/problems/search-insert-position/) | Pending |
 | [Count -ve num in sorted matrix](https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/) | Pending |
