@@ -7,9 +7,14 @@ All the codes are in C++.  ;)
 [Selection Sort](https://github.com/VatsalNilay/Basic-DSA-CPP/blob/main/Sorting/selectionSort.cpp)  
 Cycle Sort(pending)
 
-| EASY | 0/27 |  
-| MEDIUM | 0/11 |  
-| HARD | 0/1 |  
+| EASY | 0/27 |
+| ---- |---- |  
+
+| MEDIUM | 0/11 |
+| ---- |---- |
+
+| HARD | 0/1 |
+| ---- |---- |  
 
 ## EASY
 
