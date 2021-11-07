@@ -2,9 +2,9 @@ Shoutout to Kunal Kushwaha for this amazing initiative and nearly all the questi
 amazing Channel on [youtube](https://www.youtube.com/c/KunalKushwaha/featured).
 All the codes are in C++.  ;)
 
-[Bubble Sort](https://github.com/VatsalNilay/Basic-DSA-CPP/blob/main/Sorting/bubbleSort.cpp)\n
-[Insertion Sort](https://github.com/VatsalNilay/Basic-DSA-CPP/blob/main/Sorting/insertionSort.cpp)\n
-[Selection Sort](https://github.com/VatsalNilay/Basic-DSA-CPP/blob/main/Sorting/selectionSort.cpp)\n
+[Bubble Sort](https://github.com/VatsalNilay/Basic-DSA-CPP/blob/main/Sorting/bubbleSort.cpp)  
+[Insertion Sort](https://github.com/VatsalNilay/Basic-DSA-CPP/blob/main/Sorting/insertionSort.cpp)  
+[Selection Sort](https://github.com/VatsalNilay/Basic-DSA-CPP/blob/main/Sorting/selectionSort.cpp)  
 Cycle Sort(pending)
 
 ## EASY
