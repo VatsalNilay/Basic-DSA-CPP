@@ -27,7 +27,7 @@ All the codes are in C++.  ;)
 | [Two sum 2](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | Pending |
 | [Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/) | Pending |
 | [Arranging Coins](https://leetcode.com/problems/arranging-coins/) | Pending |
-| [Find smallest letter greater than target](https://leetcode.com/problems/find-smallest-letter-greater-than-target/) | [Solution](https://github.com/VatsalNilay/Basic-DSA-CPP/blob/main/binary%20search/findSmallestLetterGreaterThanTarget.cpp) |
+| [Find smallest letter greater than target](https://leetcode.com/problems/find-smallest-letter-greater-than-target/) | [Solution](https://github.com/VatsalNilay/Basic-DSA-CPP/blob/main/Searching/findSmallestLetterGreaterThanTarget.cpp) |
 | [Kth missing positive num](https://leetcode.com/problems/kth-missing-positive-number/) | Pending |
 | [Search Insert Position](https://leetcode.com/problems/search-insert-position/) | Pending |
 | [Count -ve num in sorted matrix](https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/) | Pending |
@@ -40,19 +40,19 @@ All the codes are in C++.  ;)
 ## MEDIUM
 | QUESTION | CODE |
 | :--- | ---: |
-| [First And Last Position](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | [Solution](https://github.com/VatsalNilay/Basic-DSA-CPP/blob/main/binary%20search/firstAndLastIndex.cpp) |
+| [First And Last Position](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | [Solution](https://github.com/VatsalNilay/Basic-DSA-CPP/blob/main/Searching/firstAndLastIndex.cpp) |
 | [Single Element in a sorted array](https://leetcode.com/problems/single-element-in-a-sorted-array/) | Pending |
-| [Search in Rotated array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | [Solution](https://github.com/VatsalNilay/Basic-DSA-CPP/blob/main/binary%20search/searchInRotatedArray.cpp) |
+| [Search in Rotated array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | [Solution](https://github.com/VatsalNilay/Basic-DSA-CPP/blob/main/Searching/searchInRotatedArray.cpp) |
 | [Search in rotated array 2](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/) | Pending |
 | [Find min in rotated array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | Pending |
-| [Find Peak element](https://leetcode.com/problems/find-peak-element/) | [Solution](https://github.com/VatsalNilay/Basic-DSA-CPP/blob/main/binary%20search/peakIndexInMountainArray.cpp) |
+| [Find Peak element](https://leetcode.com/problems/find-peak-element/) | [Solution](https://github.com/VatsalNilay/Basic-DSA-CPP/blob/main/Searching/peakIndexInMountainArray.cpp) |
 | [Find right interval](https://leetcode.com/problems/find-right-interval/) | Pending |
 | [Reach a number](https://leetcode.com/problems/reach-a-number/) | Pending |
 | [Max value at given index](https://leetcode.com/problems/maximum-value-at-a-given-index-in-a-bounded-array/) | Pending |
 | [KOKO eating bananas](https://leetcode.com/problems/koko-eating-bananas/) | Pending |
 | [Min absolute sum difference](https://leetcode.com/problems/minimum-absolute-sum-difference/) | Pending |
 | [Search 2d array](https://leetcode.com/problems/search-a-2d-matrix/) | Pending |
-| [Find a peak element 2](https://leetcode.com/problems/find-a-peak-element-ii/) | Pending |
+| [Find peak element 2](https://leetcode.com/problems/find-a-peak-element-ii/) | Pending |
 | [Frequency of most frequent](https://leetcode.com/problems/frequency-of-the-most-frequent-element/) | Pending |
 | [Find the duplicate element](https://leetcode.com/problems/find-the-duplicate-number/) | Pending |
 | [Capacity to ship d days](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/) | Pending |
