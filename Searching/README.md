@@ -36,7 +36,7 @@ All the codes are in C++.  ;)
 | [Fair Candy Swap](https://leetcode.com/problems/fair-candy-swap/) | Pending |
 | [Check N if its double exists](https://leetcode.com/problems/check-if-n-and-its-double-exist/) | Pending |
 | [Spcl array with  elements greater than or equal to x](https://leetcode.com/problems/special-array-with-x-elements-greater-than-or-equal-x/) | Pending |
-|
+
 ## MEDIUM
 | QUESTION | CODE |
 | :--- | ---: |
