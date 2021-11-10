@@ -4,7 +4,7 @@ All the codes are in C++.  ;)
 
 [Binary Search](https://github.com/VatsalNilay/Basic-DSA-CPP/blob/main/binary%20search/bSearch.cpp)
 
-| EASY | 1/16 |
+| EASY | 2/16 |
 | ---- |---- |  
 
 | MEDIUM | 3/17 |
@@ -21,7 +21,7 @@ All the codes are in C++.  ;)
 
 | QUESTION | CODE |
 | :------- | ----: |
-| [Square Root](https://leetcode.com/problems/sqrtx/) | Pending |
+| [Square Root](https://leetcode.com/problems/sqrtx/) | [Solution](https://github.com/VatsalNilay/Basic-DSA-CPP/blob/main/Searching/square_root.cpp) |
 | [Guess Num higher or lower](https://leetcode.com/problems/guess-number-higher-or-lower/) | Pending |
 | [First Bad Number](https://leetcode.com/problems/first-bad-version/) | Pending |
 | [Two sum 2](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | Pending |
