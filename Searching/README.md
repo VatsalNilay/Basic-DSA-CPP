@@ -14,7 +14,7 @@ All the codes are in C++.  ;)
 | ---- |---- |  
 
 
-| Total | 4/41 |
+| Total | 5/41 |
 | ---- |---- |  
 
 ## EASY
