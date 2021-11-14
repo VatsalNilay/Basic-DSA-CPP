@@ -7,14 +7,14 @@ All the codes are in C++.  ;)
 | EASY | 7/16 |
 | ---- |---- |  
 
-| MEDIUM | 3/17 |
+| MEDIUM | 4/17 |
 | ---- |---- |  
 
 | HARD | 0/8 |
 | ---- |---- |  
 
 
-| Total | 10/41 |
+| Total | 11/41 |
 | ---- |---- |  
 
 ## EASY
@@ -41,7 +41,7 @@ All the codes are in C++.  ;)
 | QUESTION | CODE |
 | :--- | ---: |
 | [First And Last Position](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | [Solution](https://github.com/VatsalNilay/Basic-DSA-CPP/blob/main/Searching/firstAndLastIndex.cpp) |
-| [Single Element in a sorted array](https://leetcode.com/problems/single-element-in-a-sorted-array/) | Pending |
+| [Single Element in a sorted array](https://leetcode.com/problems/single-element-in-a-sorted-array/) | [Solution](https://github.com/VatsalNilay/Basic-DSA-CPP/blob/main/Searching/singleElementInRotatedArray.cpp) |
 | [Search in Rotated array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | [Solution](https://github.com/VatsalNilay/Basic-DSA-CPP/blob/main/Searching/searchInRotatedArray.cpp) |
 | [Search in rotated array 2](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/) | Pending |
 | [Find min in rotated array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | Pending |
