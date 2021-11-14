@@ -1,5 +1,5 @@
 //https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/
-
+//find both position separately.
 #include<iostream>
 #include<climits>
 #include<vector>
