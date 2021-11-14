@@ -23,7 +23,7 @@ All the codes are in C++.  ;)
 | :------- | ----: |
 | [Square Root](https://leetcode.com/problems/sqrtx/) | [Solution](https://github.com/VatsalNilay/Basic-DSA-CPP/blob/main/Searching/square_root.cpp) |
 | [Guess Num higher or lower](https://leetcode.com/problems/guess-number-higher-or-lower/) | [Solution](https://github.com/VatsalNilay/Basic-DSA-CPP/blob/main/Searching/guessTheNum.cpp) |
-| [First Bad Number](https://leetcode.com/problems/first-bad-version/) | [Solutiion](https://github.com/VatsalNilay/Basic-DSA-CPP/blob/main/Searching/firstBadVersion.cpp) |
+| [First Bad Number](https://leetcode.com/problems/first-bad-version/) | [Solution](https://github.com/VatsalNilay/Basic-DSA-CPP/blob/main/Searching/firstBadVersion.cpp) |
 | [Two sum 2](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | [Solution](https://github.com/VatsalNilay/Basic-DSA-CPP/blob/main/Searching/2sum.cpp) |
 | [Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/) | [Solution](https://github.com/VatsalNilay/Basic-DSA-CPP/blob/main/Searching/validPerfectSquare.cpp) |
 | [Arranging Coins](https://leetcode.com/problems/arranging-coins/) | [Solution](https://github.com/VatsalNilay/Basic-DSA-CPP/blob/main/Searching/arrangingCoins.cpp) |
