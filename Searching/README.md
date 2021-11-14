@@ -4,7 +4,7 @@ All the codes are in C++.  ;)
 
 [Binary Search](https://github.com/VatsalNilay/Basic-DSA-CPP/blob/main/binary%20search/bSearch.cpp)
 
-| EASY | 2/16 |
+| EASY | 7/16 |
 | ---- |---- |  
 
 | MEDIUM | 3/17 |
@@ -14,7 +14,7 @@ All the codes are in C++.  ;)
 | ---- |---- |  
 
 
-| Total | 5/41 |
+| Total | 10/41 |
 | ---- |---- |  
 
 ## EASY
@@ -22,11 +22,11 @@ All the codes are in C++.  ;)
 | QUESTION | CODE |
 | :------- | ----: |
 | [Square Root](https://leetcode.com/problems/sqrtx/) | [Solution](https://github.com/VatsalNilay/Basic-DSA-CPP/blob/main/Searching/square_root.cpp) |
-| [Guess Num higher or lower](https://leetcode.com/problems/guess-number-higher-or-lower/) | Pending |
-| [First Bad Number](https://leetcode.com/problems/first-bad-version/) | Pending |
-| [Two sum 2](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | Pending |
-| [Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/) | Pending |
-| [Arranging Coins](https://leetcode.com/problems/arranging-coins/) | Pending |
+| [Guess Num higher or lower](https://leetcode.com/problems/guess-number-higher-or-lower/) | [Solution](https://github.com/VatsalNilay/Basic-DSA-CPP/blob/main/Searching/guessTheNum.cpp) |
+| [First Bad Number](https://leetcode.com/problems/first-bad-version/) | [Solutiion](https://github.com/VatsalNilay/Basic-DSA-CPP/blob/main/Searching/firstBadVersion.cpp) |
+| [Two sum 2](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | [Solution](https://github.com/VatsalNilay/Basic-DSA-CPP/blob/main/Searching/2sum.cpp) |
+| [Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/) | [Solution](https://github.com/VatsalNilay/Basic-DSA-CPP/blob/main/Searching/validPerfectSquare.cpp) |
+| [Arranging Coins](https://leetcode.com/problems/arranging-coins/) | [Solution](https://github.com/VatsalNilay/Basic-DSA-CPP/blob/main/Searching/arrangingCoins.cpp) |
 | [Find smallest letter greater than target](https://leetcode.com/problems/find-smallest-letter-greater-than-target/) | [Solution](https://github.com/VatsalNilay/Basic-DSA-CPP/blob/main/Searching/findSmallestLetterGreaterThanTarget.cpp) |
 | [Kth missing positive num](https://leetcode.com/problems/kth-missing-positive-number/) | Pending |
 | [Search Insert Position](https://leetcode.com/problems/search-insert-position/) | Pending |
