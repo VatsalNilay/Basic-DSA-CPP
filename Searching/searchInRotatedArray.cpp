@@ -10,7 +10,7 @@ int search(vector<int>& v1, int x)
     int pivot = -1;
         
         
-     while(si <= ei)
+    while(si <= ei)
     {            
         mid = si + (ei - si)/2;
 
