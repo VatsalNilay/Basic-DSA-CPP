@@ -10,11 +10,11 @@ All the codes are in C++.  ;)
 | MEDIUM | 6/17 |
 | ---- |---- |  
 
-| HARD | 0/8 |
+| HARD | 1/8 |
 | ---- |---- |  
 
 
-| Total | 13/41 |
+| Total | 14/41 |
 | ---- |---- |  
 
 ## EASY
@@ -60,7 +60,7 @@ All the codes are in C++.  ;)
 ## HARD
 | QUESTION | CODE | 
 | :--- | ---: |
-| [Medians of 2 sorted arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) | Pending |
+| [Medians of 2 sorted arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) | [Solution](https://github.com/VatsalNilay/Basic-DSA-CPP/blob/main/Searching/medianSortedArray.cpp) |
 | [Min in rotated array 2](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/) | Pending |
 | [Aggressive Cows](https://www.spoj.com/problems/AGGRCOW/) | Pending |
 | [Book Allocation](https://www.geeksforgeeks.org/allocate-minimum-number-pages/) | Pending |
